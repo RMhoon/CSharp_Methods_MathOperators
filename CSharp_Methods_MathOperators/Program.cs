@@ -30,6 +30,11 @@ namespace CSharp_Methods_MathOperators
             else
                 Console.WriteLine("Invalid operand1.");
 
+            //Bonus 
+            Console.WriteLine(Add(1, 1, 1, 1, 1));
+            Console.WriteLine(Add(2,4, 6));
+
+            //Console.WriteLine($"Size of var{sizeof(int)}");
         }
 
         public static string GetInput(string message)
@@ -40,6 +45,17 @@ namespace CSharp_Methods_MathOperators
        public static  int Add(int num1, int num2)
         {
             return num1 + num2;
+        }
+
+        public static int Add(params int[] numbs)
+        {
+            int result = 0;
+            foreach (int item in numbs)
+                result += item;
+            
+            return result;
+
+            
         }
 
         public static int Multiply(int num1, int num2)
