@@ -1,0 +1,13 @@
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\bin\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.exe
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\bin\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.deps.json
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\bin\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.runtimeconfig.json
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\bin\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.runtimeconfig.dev.json
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\bin\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.dll
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\bin\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.pdb
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.csprojAssemblyReference.cache
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.AssemblyInfoInputs.cache
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.AssemblyInfo.cs
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.dll
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.pdb
+C:\Users\rmhoon\Desktop\repos\CSharp_Methods_MathOperators\CSharp_Methods_MathOperators\obj\Debug\netcoreapp3.1\CSharp_Methods_MathOperators.genruntimeconfig.cache
